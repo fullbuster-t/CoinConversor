@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f16213e-c8f1-4a91-94cf-a135d04de159" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/QueryCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/ui/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoinConversor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoinConversor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/FileGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/FileGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/HistoryConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/ConversionCoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/functions/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/modules/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fullbuster/coinconversor/modules/Coin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
