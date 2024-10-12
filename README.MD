@@ -1,6 +1,6 @@
 <h1 align="center"> Coin Converter Challenge ONE 💰</h1>
 
-![Static Badge](https://img.shields.io/badge/version%201.0.0-black) ![Java](https://img.shields.io/badge/Java-11%2B-blue.svg) ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-darkgreen) ![Last commit](https://img.shields.io/github/last-commit/fullbuster-t/CoinConversor)
+![Static Badge](https://img.shields.io/badge/version%201.0.0-darkgray) ![Java](https://img.shields.io/badge/Java-11%2B-blue.svg) ![Badge en Desarollo](https://img.shields.io/badge/status-en%20desarrollo-darkgreen) ![Last commit](https://img.shields.io/github/last-commit/fullbuster-t/CoinConversor)
 
 ---
 
