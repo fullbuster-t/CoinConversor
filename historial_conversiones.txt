@@ -1,0 +1,9 @@
+------------------------------------------------
+Fecha y hora de conversión: 2024-10-11 18:42:24
+Divisa de origen: RUB
+Divisa de destino: MXN
+Monto para convertir: 1500.00
+Resultado de la conversión: 302.85
+1500.00 RUB equivale a 302.85 MXN
+------------------------------------------------
+
