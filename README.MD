@@ -2,20 +2,16 @@
 
 ![Static Badge](https://img.shields.io/badge/version%201.0.0-gray) ![Java](https://img.shields.io/badge/Java-11%2B-blue.svg) ![Badge en Desarollo](https://img.shields.io/badge/status-en%20desarrollo-darkgreen) ![Last commit](https://img.shields.io/github/last-commit/fullbuster-t/CoinConversor)
 
----
-
 ![alt text](image.png)
 
 Proyecto desarrollado como un **conversor de divisas** a través de Java, que nos permite convertir entre las monedas de diversos países según se prefiera, ya que tiene soporte para la mayoría de ellas. Se utiliza la API de ExchangeRate, que nos permite obtener el cambio en tiempo real. La aplicación nos permite ingresar una cantidad de la divisa que queramos para obtener la tasa de cambio, además de mostrarnos un historial de las conversiones que hemos realizado a lo largo de la ejecución del programa.
 
 <h2> Descripción del proyecto 📃</h2> 
 
----
 El programa nos permite seleccionar entre una serie de divisas; el menú de selección solo contempla algunas. Sin embargo, si el usuario sabe el código base de su divisa, puede ingresarlo de igual forma. Nos permite ingresar un monto para la conversión. La aplicación realiza solicitudes a la API de ExchangeRate para obtener los cambios entre las monedas, los procesa y nos muestra las conversiones por consola. Además, cuenta con un historial de conversiones que añade la fecha y hora de registro de la solicitud. Todos estos registros se integran en un archivo .txt en caso de querer compartir las conversiones realizadas.
 
 <h2> Divisas aceptadas: 💵</h2>
 
----
 El programa acepta cualquier divisa; sin embargo, en el menú de selección se muestran las más populares y utilizadas a nivel mundial.
 
 | **Moneda**                 | **Moneda**                  |
@@ -37,7 +33,6 @@ Si se requiere otra tasa de cambio, basta con ingresar su código base y continu
 
 <h2> Tecnologías 📂</h2>
 
----
 **Lenguaje de desarrollo:**
 Java usando jdk 17
 
@@ -52,7 +47,6 @@ Uso de arquitectura modular a través de paquetes, con la siguiente estructura:
 
 <h2> Cómo ejecutar el programa 💻</h2>
 
----
 **Instalación:**
 1. Abre una terminal de git para clonar el repositorio
 https://github.com/fullbuster-t/CoinConversor.git
@@ -70,7 +64,6 @@ https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0
 
 <h2> Autor 🙋</h2>
 
----
 <img src="https://avatars.githubusercontent.com/fullbuster-t?v=4" width="115" style="border-radius: 50%;">
 
 Fullbuster - SoftDev🇲🇽
